@@ -1,0 +1,2 @@
+消息格式:
+des(mess)&ID&md5(cipher+token+ID)&type
